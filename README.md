@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ananya+Nagaraj;AI%2FML+Engineer+%7C+Software+Developer;Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+Workflows;10K%2B+Users+Served+%7C+99%25+Accuracy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ananya+Nagaraj;AI/ML+Engineer+|+Software+Developer;Building+Production+AI+Systems;LLMs+|+RAG+|+Agentic+AI;10K%2B+Users+|+99%25+Accuracy" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:anagara2@syr.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:annagara@syr.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ananya-nagaraj-4308a8150"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -35,7 +35,7 @@ class AnanyaNagaraj:
             "Databases": ["PostgreSQL", "MongoDB", "Redis"]
         }
         
-        self.achievements = {
+        self.impact = {
             "users_served": "10,000+",
             "ml_accuracy": "99.90%",
             "production_systems": 3
@@ -84,19 +84,6 @@ class AnanyaNagaraj:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyanagaraj11&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananyanagaraj11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyanagaraj11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🎯 SafeVoice AI
@@ -129,14 +116,6 @@ class AnanyaNagaraj:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananyanagaraj11&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🎯 Currently Working On
 ```diff
 + 🔬 Automated polymer research data extraction (Python + OpenCV + NLP)
@@ -161,7 +140,7 @@ class AnanyaNagaraj:
 I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer** roles starting **January 2026**.
 
 **What I bring to the table:**
-- 3+ years of software development experience
+- 2+ years of software development experience
 - Production ML systems serving thousands of users
 - Full-stack capabilities (React to FastAPI to AWS)
 - Proven track record of building scalable AI applications
@@ -169,14 +148,6 @@ I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer**
 📧 **Email:** anagara2@syr.edu  
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananya-nagaraj-4308a8150)  
 📍 **Location:** Syracuse, NY (Open to relocation)
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ananyanagaraj11&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
 ---
 
