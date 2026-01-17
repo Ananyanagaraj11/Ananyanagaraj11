@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="mailto:annagara@syr.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ananya-nagaraj-4308a8150"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ananyanagaraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ananya-nagaraj-portfolio-3fje-o3nlk7yxq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -140,13 +141,14 @@ class AnanyaNagaraj:
 I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer** roles starting **January 2026**.
 
 **What I bring to the table:**
-- 2+ years of software development experience
+- 3+ years of software development experience
 - Production ML systems serving thousands of users
 - Full-stack capabilities (React to FastAPI to AWS)
 - Proven track record of building scalable AI applications
 
-📧 **Email:** anagara2@syr.edu  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananya-nagaraj-4308a8150)  
+📧 **Email:** annagara@syr.edu  
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananyanagaraj)  
+🌐 **Portfolio:** [View my work](https://ananya-nagaraj-portfolio-3fje-o3nlk7yxq.vercel.app)  
 📍 **Location:** Syracuse, NY (Open to relocation)
 
 ---
