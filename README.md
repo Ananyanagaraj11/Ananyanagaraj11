@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:annagara@syr.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ananyanagaraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ananya-nagaraj-portfolio-3fje-o3nlk7yxq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ananya-nagaraj-portfolio-3fje.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -58,7 +58,8 @@ class AnanyaNagaraj:
 🔐 **IoT Attack Detection** - Achieved **99.90% accuracy** on CICIDS2017 dataset  
 👗 **GlamScan** - AI fashion recommendation engine (React + FastAPI + ML)  
 🧬 **Medical NER** - BioBERT entity extraction with **92% F1-score**  
-📊 **Polymer Research Tool** - Automated data extraction from scientific papers
+📊 **BizPulse Analytics** - Streamlit KPI dashboard with dark-mode insights  
+🧠 **Agentic Research Intelligence** - End-to-end ingestion, training, and dashboard
 
 ---
 
@@ -115,6 +116,20 @@ class AnanyaNagaraj:
 - Fine-tuned transformer models
 - Healthcare application focus
 
+### 📊 BizPulse Analytics Dashboard
+**Dark-mode KPI analytics dashboard**  
+`Python` `Pandas` `Streamlit` `Plotly`
+- KPI cards, charts, and action lists
+- CSV/DB-ready data sources
+- Streamlit Community Cloud deployment
+
+### 🧠 Agentic Research Intelligence Dashboard
+**Agentic research pipeline + interactive dashboard**  
+`Python` `FastAPI` `React` `Vite`
+- Dataset ingestion to model training and evaluation
+- Backend API powering analytics insights
+- Animated dashboard UI with live metrics
+
 ---
 
 ## 🎯 Currently Working On
@@ -148,7 +163,7 @@ I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer**
 
 📧 **Email:** annagara@syr.edu  
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananyanagaraj)  
-🌐 **Portfolio:** [View my work](https://ananya-nagaraj-portfolio-3fje-o3nlk7yxq.vercel.app)  
+🌐 **Portfolio:** [View my work](https://ananya-nagaraj-portfolio-3fje.vercel.app)  
 📍 **Location:** Syracuse, NY (Open to relocation)
 
 ---
