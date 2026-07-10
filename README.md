@@ -153,18 +153,18 @@ class AnanyaNagaraj:
 
 ## 💼 Open to Opportunities
 
-I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer** roles starting **January 2026**.
+I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer** roles starting **June 2026**.
 
 **What I bring to the table:**
-- 3+ years of software development experience
+- 4+ years of software development experience
 - Production ML systems serving thousands of users
 - Full-stack capabilities (React to FastAPI to AWS)
 - Proven track record of building scalable AI applications
 
 📧 **Email:** annagara@syr.edu  
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananyanagaraj)  
-🌐 **Portfolio:** [View my work](https://ananya-nagaraj-portfolio-3fje.vercel.app)  
-📍 **Location:** Syracuse, NY (Open to relocation)
+🌐 **Portfolio:** [View my work](https://ananyanagaraj.lovable.app/)  
+📍 **Location:** New York (Open to relocation)
 
 ---
 
