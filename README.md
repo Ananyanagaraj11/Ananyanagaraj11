@@ -197,6 +197,7 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 
 ### Rheology Plot Digitizer (Research)
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/automated-scatter-plot-data-extraction)
+[![Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Ananyanagaraj11/automated-scatter-plot-data-extraction/blob/main/Rheology_Dashboard.ipynb)
 
 - **29** reference datasets · **18** API routes · **5** UI pages
 - **907 LOC** · **26** functions · **10-stage** pipeline
@@ -208,11 +209,64 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 
 ### SafeVoice AI
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/safevoice-ai)
+[![Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](http://safevoiceai.netlify.app/)
 
 - Whisper `base` + **2** Hugging Face NLP models
 - Flask API + React dashboard + PDF reports
 
 `Flask` `React` `Transformers`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Medical NER (BioBERT)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/medical-ner-biobert)
+[![Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://medical-ner-dashboard.vercel.app/)
+
+- Interactive biomedical entity extraction dashboard
+- Live prediction UI with entity highlighting
+
+`React` `BioBERT` `Transformers`
+
+</td>
+<td width="50%" valign="top">
+
+### BizPulse Analytics
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/BizPulse-Analytics-Dashboard)
+[![Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://bizpulse-analytics-dashboard-5c8cvwu7drn9yymrjydmd4.streamlit.app/)
+
+- Business analytics KPI dashboard
+- Streamlit interactive charts and filters
+
+`Python` `Streamlit` `Pandas`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Agentic Research Intelligence
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/agentic-research-intelligence-dashboard)
+[![Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://frontend-two-gilt-97.vercel.app)
+
+- Agent-driven research workflow dashboard
+- Full-stack React frontend + API backend
+
+`React` `FastAPI` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### IoT Attack Detection
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/iot-attack-detection-dashboard)
+[![Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://ananyanagaraj11.github.io/iot-attack-detection-dashboard/)
+
+- Network attack visualization dashboard
+- Interactive threat monitoring UI
+
+`JavaScript` `D3.js` `IoT`
 
 </td>
 </tr>
@@ -226,7 +280,7 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 |:--|:--|
 | **18 REST API routes** on research digitization platform | GitHub / notebooks |
 | **80+ data feeds/day** enterprise backend throughput | MetaSystems experience |
-| **2 live production demos** (EDI + SOC Lite) | Render deployments |
+| **7+ live demos** (EDI, SOC Lite, SafeVoice, Medical NER, BizPulse, Agentic Research, IoT) | Render · Vercel · Netlify · Streamlit · GitHub Pages |
 | **5-agent decision pipeline** with evaluation harness | EDI repository |
 
 ---
@@ -271,14 +325,17 @@ _Add Credly or Google Skills Boost profile URLs here when you have them — safe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ananyanagaraj11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Ananyanagaraj11&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyanagaraj11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+<!-- Local SVGs (reliable — commit & push the assets/ folder) -->
+<img src="./assets/stats.svg" height="200" alt="GitHub stats"/>
+<img src="./assets/langs.svg" height="200" alt="Top languages"/>
 
 <br/><br/>
 
-<!-- Run .github/workflows/snake.yml once to generate the snake animation -->
+<img src="./assets/trophies.svg" alt="Engineering achievements" width="100%"/>
+
+<br/><br/>
+
+<!-- Run Actions → "Generate Snake Animation" once; snake files land on the output branch -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananyanagaraj11/Ananyanagaraj11/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ananyanagaraj11/Ananyanagaraj11/output/github-snake.svg"/>
@@ -307,6 +364,10 @@ _Add Credly or Google Skills Boost profile URLs here when you have them — safe
 ---
 
 <div align="center">
+
+<img src="./assets/footer-wave.svg" alt="" width="100%"/>
+
+<br/>
 
 **Building backend systems and AI platforms with measurable engineering impact.**
 

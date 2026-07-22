@@ -18,7 +18,7 @@
     <rect x="4" y="46" width="16" height="4" rx="2" fill="#fbbf24"/>
     <animateTransform attributeName="transform" type="translate" values="70 55;70 50;70 55" dur="2.5s" repeatCount="indefinite"/>
   </g>
-  <text x="70" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">2 Live Demos</text>
+  <text x="70" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">7+ Live Demos</text>
 
   <g transform="translate(280 55)">
     <path d="M0 0 H24 V18 C24 30 18 38 12 38 C6 38 0 30 0 18 Z" fill="url(#trophyGold)"/>
