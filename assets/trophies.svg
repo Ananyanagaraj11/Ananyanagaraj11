@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-label="Engineering achievements">
+  <defs>
+    <linearGradient id="trophyGold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="cardT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" rx="16" fill="url(#cardT)" stroke="#334155"/>
+
+  <!-- trophy icons x4 -->
+  <g transform="translate(70 55)">
+    <path d="M0 0 H24 V18 C24 30 18 38 12 38 C6 38 0 30 0 18 Z" fill="url(#trophyGold)"/>
+    <rect x="8" y="38" width="8" height="8" fill="#f59e0b"/>
+    <rect x="4" y="46" width="16" height="4" rx="2" fill="#fbbf24"/>
+    <animateTransform attributeName="transform" type="translate" values="70 55;70 50;70 55" dur="2.5s" repeatCount="indefinite"/>
+  </g>
+  <text x="70" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">2 Live Demos</text>
+
+  <g transform="translate(280 55)">
+    <path d="M0 0 H24 V18 C24 30 18 38 12 38 C6 38 0 30 0 18 Z" fill="url(#trophyGold)"/>
+    <rect x="8" y="38" width="8" height="8" fill="#f59e0b"/>
+    <rect x="4" y="46" width="16" height="4" rx="2" fill="#fbbf24"/>
+    <animateTransform attributeName="transform" type="translate" values="280 55;280 50;280 55" dur="2.5s" begin="0.4s" repeatCount="indefinite"/>
+  </g>
+  <text x="280" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">5-Agent EDI Platform</text>
+
+  <g transform="translate(490 55)">
+    <path d="M0 0 H24 V18 C24 30 18 38 12 38 C6 38 0 30 0 18 Z" fill="url(#trophyGold)"/>
+    <rect x="8" y="38" width="8" height="8" fill="#f59e0b"/>
+    <rect x="4" y="46" width="16" height="4" rx="2" fill="#fbbf24"/>
+    <animateTransform attributeName="transform" type="translate" values="490 55;490 50;490 55" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+  </g>
+  <text x="490" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">18 API Research Platform</text>
+
+  <g transform="translate(700 55)">
+    <path d="M0 0 H24 V18 C24 30 18 38 12 38 C6 38 0 30 0 18 Z" fill="url(#trophyGold)"/>
+    <rect x="8" y="38" width="8" height="8" fill="#f59e0b"/>
+    <rect x="4" y="46" width="16" height="4" rx="2" fill="#fbbf24"/>
+    <animateTransform attributeName="transform" type="translate" values="700 55;700 50;700 55" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+  </g>
+  <text x="700" y="120" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="11" text-anchor="middle">80+ Feeds/Day Backend</text>
+
+  <text x="450" y="28" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Engineering Achievements (Verified)</text>
+</svg>

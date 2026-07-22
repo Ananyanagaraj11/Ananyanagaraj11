@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="56" viewBox="0 0 780 56" role="img" aria-label="Animated typing roles">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="56" rx="10" fill="url(#termBg)" stroke="#334155"/>
+  <circle cx="18" cy="18" r="5" fill="#ef4444"/>
+  <circle cx="34" cy="18" r="5" fill="#f59e0b"/>
+  <circle cx="50" cy="18" r="5" fill="#22c55e"/>
+  <text x="70" y="36" fill="#22d3ee" font-family="Consolas, monospace" font-size="16">$ roles = [</text>
+  <text x="190" y="36" fill="#e2e8f0" font-family="Consolas, monospace" font-size="16">
+    "AI Engineer", "Backend Engineer", "ML Engineer", "LLM Engineer"
+    <animate attributeName="opacity" values="1;0.3;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <rect x="760" y="24" width="10" height="18" fill="#6366f1">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

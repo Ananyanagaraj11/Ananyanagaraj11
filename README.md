@@ -1,185 +1,306 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Ananya+Nagaraj;AI/ML+Engineer+|+Software+Developer;Building+Production+AI+Systems;LLMs+|+RAG+|+Agentic+AI;10K%2B+Users+|+90+%25+Accuracy" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Master's in CS @ Syracuse University | Shipping AI systems that actually work 🚀</b>
-</p>
+<!-- Animated Banner (Dark / Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"/>
+  <img src="assets/banner.svg" alt="Ananya Naga Raj — AI & Backend Engineer" width="100%"/>
+</picture>
 
-<p align="center">
-  <a href="mailto:ananya.nagaraj11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ananyanagaraj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://ananyanagaraj.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="assets/typing-terminal.svg" alt="Animated typing roles" width="92%"/>
+
+<br/><br/>
+
+<a href="mailto:ananya.nagaraj11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ananyanagaraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ananyanagaraj11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ananyanagaraj.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0000-6576-6232"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
-```python
-class AnanyaNagaraj:
-    def __init__(self):
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.location = "Syracuse, NY"
-        self.education = "MS Computer Science @ Syracuse University"
-        self.graduation = "May 2026"
-        
-        self.current_work = [
-            "Graduate Research Assistant - Biomedical AI",
-            "Software Developer @ iConsult Project"
-        ]
-        
-        self.expertise = {
-            "AI/ML": ["LLM Systems", "RAG Architectures", "Agentic AI"],
-            "Backend": ["Python", "FastAPI", "Node.js"],
-            "Frontend": ["React", "TypeScript", "Next.js"],
-            "Cloud": ["AWS", "Docker", "CI/CD"],
-            "Databases": ["PostgreSQL", "MongoDB", "Redis"]
-        }
-        
-        self.impact = {
-            "users_served": "10,000+",
-            "ml_accuracy": "99.90%",
-            "production_systems": 3
-        }
-    
-    def looking_for(self):
-        return {
-            "roles": ["AI Engineer", "Software Engineer", "ML Engineer"],
-            "start_date": "January 2026",
-            "focus": "Building scalable AI systems in production"
-        }
+## Introduction
+
+**Software Engineer · AI Engineer · Backend Engineer · ML Engineer · LLM Engineer**
+
+MS **Computer Science** @ **Syracuse University** (May 2026). I build **production backend systems**, **LLM/RAG platforms**, **computer vision pipelines**, and **cloud-native services** — from Java/Kafka microservices to FastAPI inference APIs and PyTorch ML dashboards.
+
+<div align="center">
+  <img src="assets/lanyard.svg" alt="Engineering ID badge" width="220"/>
+</div>
+
+---
+
+## About Me
+
+```yaml
+name: Ananya Naga Raj
+location: Texas, USA (open to relocation)
+education: MS Computer Science, Syracuse University
+roles:
+  - AI Engineer
+  - Backend Engineer
+  - Machine Learning Engineer
+  - Python Engineer
+  - Distributed Systems Engineer
+  - LLM Engineer
+  - Data Engineer
+focus:
+  - FastAPI / Spring Boot microservices
+  - Agentic AI, RAG, LangChain, LangGraph
+  - PyTorch ML pipelines & OpenCV research systems
+  - Docker, Kubernetes, AWS, CI/CD
+open_to: Software Engineer & AI Engineer roles · May 2026
 ```
 
 ---
 
-## 🎯 Impact Highlights
+## Professional Timeline
 
-🏆 **SafeVoice AI** - Harassment detection system serving **10,000+ users** with **85%+ accuracy**  
-🔐 **IoT Attack Detection** - Achieved **99.90% accuracy** on CICIDS2017 dataset  
-👗 **GlamScan** - AI fashion recommendation engine (React + FastAPI + ML)  
-🧬 **Medical NER** - BioBERT entity extraction with **92% F1-score**  
-📊 **BizPulse Analytics** - Streamlit KPI dashboard with dark-mode insights  
-🧠 **Agentic Research Intelligence** - End-to-end ingestion, training, and dashboard
+| Period | Role | Organization | Engineering Impact |
+|:--|:--|:--|:--|
+| **Aug 2025 – Present** | AI Software Engineer | **Honeywell** | RAG + agentic AI platform · **2 vector DBs** · **2 LLM platforms** (Bedrock, OpenAI) · K8s microservices |
+| **Jun 2021 – Jul 2024** | Software Engineer | **MetaSystems** | Spring Boot backend · **80+ feeds/day** · Kafka/RabbitMQ · **20% SQL optimization** · **85% test coverage** |
+| **Jan – May 2026** | Research Assistant | **Syracuse University** | CV plot digitizer · **18 API routes** · **29 reference datasets** · **907 LOC** extraction library |
+
+> Honeywell & MetaSystems are **professional experience** (proprietary — not open-source repos).  
+> Summaries: [Honeywell](./docs/HONEYWELL-README.md) · [MetaSystems](./docs/METASYSTEMS-README.md)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,typescript,nodejs,fastapi,tensorflow,pytorch,aws,docker,postgres,redis,mongodb,git,github&perline=7" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### AI/ML & Data Science
-`LangChain` `LlamaIndex` `HuggingFace` `OpenAI API` `Pinecone` `ChromaDB` `RAG` `Fine-tuning`
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Backend & APIs
-`FastAPI` `Flask` `Node.js` `Express` `REST` `GraphQL` `WebSockets`
+### AI / ML / LLM
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Frontend Development
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `React Query`
-
-### Cloud & DevOps
-`AWS (EC2, S3, Lambda)` `Docker` `CI/CD` `GitHub Actions` `MLOps`
+### Cloud · DevOps · MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ### Databases
-`PostgreSQL` `MongoDB` `Redis` `Pinecone` `ChromaDB`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square)
 
 ---
 
-## 🚀 Featured Projects
+## AI Expertise
 
-### 🎯 SafeVoice AI
-**Real-time harassment detection system**  
-`Python` `TensorFlow` `FastAPI` `React` `PostgreSQL`
-- Serving 10,000+ users in production
-- 85%+ detection accuracy
-- Real-time content moderation pipeline
+| Domain | Engineering Focus |
+|:--|:--|
+| **Agentic AI** | Multi-agent workflows, tool calling, HITL validation (Honeywell) |
+| **RAG** | Hybrid search, reranking, Pinecone + ChromaDB vector retrieval |
+| **LLMs** | AWS Bedrock, OpenAI, prompt engineering, eval pipelines |
+| **ML Pipelines** | PyTorch training/inference, scikit-learn preprocessing, artifact deployment |
+| **Computer Vision** | OpenCV plot digitization, validation metrics (RMSE, Pearson) |
 
-### 🔐 IoT Security System
-**Network intrusion detection using ML**  
-`Python` `Scikit-learn` `Deep Learning` `CICIDS2017`
-- 99.90% accuracy on benchmark dataset
-- Multi-class attack classification
-- Deployed for real-time monitoring
+## Backend Expertise
 
-### 👗 GlamScan
-**AI-powered fashion recommendation engine**  
-`React` `FastAPI` `OpenAI API` `Computer Vision`
-- Image-based fashion analysis
-- Personalized style recommendations
-- Full-stack implementation
-
-### 🧬 Medical NER System
-**Clinical entity extraction using BioBERT**  
-`PyTorch` `HuggingFace` `BERT` `NLP`
-- 92% F1-score on medical entities
-- Fine-tuned transformer models
-- Healthcare application focus
-
-### 📊 BizPulse Analytics Dashboard
-**Dark-mode KPI analytics dashboard**  
-`Python` `Pandas` `Streamlit` `Plotly`
-- KPI cards, charts, and action lists
-- CSV/DB-ready data sources
-- Streamlit Community Cloud deployment
-
-### 🧠 Agentic Research Intelligence Dashboard
-**Agentic research pipeline + interactive dashboard**  
-`Python` `FastAPI` `React` `Vite`
-- Dataset ingestion to model training and evaluation
-- Backend API powering analytics insights
-- Animated dashboard UI with live metrics
+| Domain | Engineering Focus |
+|:--|:--|
+| **Microservices** | Java Spring Boot, FastAPI, gRPC, REST APIs |
+| **Event-Driven Systems** | Kafka, RabbitMQ, Redis async pipelines |
+| **Data Engineering** | ETL ingestion, PostgreSQL optimization, batch processing |
+| **Distributed Systems** | Container orchestration, CI/CD, cloud-native deployment |
 
 ---
 
-## 🎯 Currently Working On
-```diff
-+ 🔬 Automated polymer research data extraction (Python + OpenCV + NLP)
-+ 🤖 Multi-agent AI system for complex reasoning tasks
-+ 📊 ML model monitoring dashboard with real-time metrics
-+ 🚀 Production-ready AI engineering portfolio
-```
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Honeywell — Enterprise AI Platform
+*Professional experience · proprietary*
+
+| | |
+|:--|:--|
+| **Impact** | RAG + agentic workflows for enterprise knowledge retrieval |
+| **Scale** | 2 vector DBs · 2 LLM platforms · K8s microservices |
+| **Stack** | FastAPI · LangChain · LangGraph · Pinecone · ChromaDB · AWS |
+
+[Architecture doc](./docs/HONEYWELL-README.md)
+
+</td>
+<td width="50%" valign="top">
+
+### MetaSystems — Enterprise Backend
+*Professional experience · proprietary*
+
+| | |
+|:--|:--|
+| **Impact** | **80+ financial/regulatory feeds/day** via Spring Boot |
+| **Performance** | **20% SQL improvement** · **85% code coverage** |
+| **Stack** | Java · Kafka · RabbitMQ · PostgreSQL · Jenkins · K8s |
+
+[Architecture doc](./docs/METASYSTEMS-README.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise Decision Intelligence
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/enterprise-decision-intelligence.)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://enterprise-decision-intelligence.onrender.com/)
+
+- **5 agents** + controller · **10 FastAPI endpoints**
+- **12 corrective actions** · eval **407.4 ms** (92-row dataset)
+- **11 pytest** tests · Django + Streamlit dashboards
+
+`Python` `FastAPI` `Django` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### SOC Lite AI IDS
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/soc-lite-ai-ids)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://ai-cyber-threat-dashboard-1.onrender.com/dashboard/index.html)
+
+- **13,538** params · **20** features · **5** REST endpoints
+- Batch inference up to **1,000** records
+- PyTorch + FastAPI SOC dashboard
+
+`PyTorch` `FastAPI` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Rheology Plot Digitizer (Research)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/automated-scatter-plot-data-extraction)
+
+- **29** reference datasets · **18** API routes · **5** UI pages
+- **907 LOC** · **26** functions · **10-stage** pipeline
+
+`OpenCV` `Django` `SciPy`
+
+</td>
+<td width="50%" valign="top">
+
+### SafeVoice AI
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/safevoice-ai)
+
+- Whisper `base` + **2** Hugging Face NLP models
+- Flask API + React dashboard + PDF reports
+
+`Flask` `React` `Transformers`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 What I'm Learning
+## Engineering Achievements
 
-- Advanced RAG architectures and agentic workflows
-- Production MLOps and model deployment at scale
-- Kubernetes for AI system orchestration
-- Advanced prompt engineering techniques
+<img src="assets/trophies.svg" alt="Engineering achievements" width="100%"/>
 
----
-
-## 💼 Open to Opportunities
-
-I'm actively seeking **AI Engineer**, **ML Engineer**, and **Software Engineer** roles starting **June 2026**.
-
-**What I bring to the table:**
-- Software development experience
-- Production ML systems serving thousands of users
-- Full-stack capabilities (React to FastAPI to AWS)
-- Proven track record of building scalable AI applications
-
-📧 **Email:** annagara@syr.edu  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ananyanagaraj)  
-🌐 **Portfolio:** [View my work](https://ananyanagaraj.lovable.app/)  
-📍 **Location:** Texas (Open to relocation)
+| Achievement | Source |
+|:--|:--|
+| **18 REST API routes** on research digitization platform | GitHub / notebooks |
+| **80+ data feeds/day** enterprise backend throughput | MetaSystems experience |
+| **2 live production demos** (EDI + SOC Lite) | Render deployments |
+| **5-agent decision pipeline** with evaluation harness | EDI repository |
+| **Microsoft AI/ML + Google LLM** certifications | Resume |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ananyanagaraj11&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-</p>
+## Research
 
-<p align="center">
-  <i>"Ship fast, iterate faster. Building AI systems that create real impact."</i>
-</p>
+**Syracuse University — Biomedical & Chemical Engineering (Rheology Lab)**
+
+- Automated extraction of G′/G″ curves from published rheology plots
+- Validation against **29** human-reference CSVs across **7** literature sources
+- Django research dashboard with batch processing and experiment history
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<!-- Local SVG stats (auto-updated by GitHub Actions — no external stat APIs) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats.svg"/>
+  <img src="assets/stats.svg" alt="GitHub statistics" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/langs.svg"/>
+  <img src="assets/langs.svg" alt="Top languages" width="48%"/>
+</picture>
+
+<br/><br/>
+
+<!-- Contribution Snake (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ananyanagaraj11/Ananyanagaraj11/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ananyanagaraj11/Ananyanagaraj11/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ananyanagaraj11/Ananyanagaraj11/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ananya.nagaraj11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananya.nagaraj11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyanagaraj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ananyanagaraj.lovable.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ananyanagaraj11)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ananyanagaraj11&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Visitor counter"/>
+
+</div>
 
 ---
 
 <div align="center">
-  
-### ⭐ Found my work interesting? Star the repos you like!
-  
+
+<img src="assets/footer-wave.svg" alt="Footer wave animation" width="100%"/>
+
+**Building backend systems and AI platforms with measurable engineering impact.**
+
+⭐ Star my pinned repositories if you find them useful.
+
 </div>

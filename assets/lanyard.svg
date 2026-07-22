@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="420" viewBox="0 0 320 420" role="img" aria-label="Engineering ID badge">
+  <defs>
+    <linearGradient id="strap" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <g transform="translate(160 20)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-4;4;-4" dur="4s" repeatCount="indefinite"/>
+      <!-- lanyard strap -->
+      <path d="M-8 0 L8 0 L14 130 L-14 130 Z" fill="url(#strap)"/>
+      <rect x="-18" y="128" width="36" height="10" rx="4" fill="#312e81"/>
+      <!-- badge card -->
+      <g transform="translate(0 138)" filter="url(#shadow)">
+        <rect x="-95" y="0" width="190" height="250" rx="16" fill="url(#badge)" stroke="#6366f1" stroke-width="2"/>
+        <circle cx="0" cy="52" r="34" fill="#312e81" stroke="#818cf8" stroke-width="2"/>
+        <text x="0" y="58" text-anchor="middle" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AN</text>
+        <text x="0" y="112" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">ANANYA NAGA RAJ</text>
+        <text x="0" y="132" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="10">SOFTWARE · AI · BACKEND</text>
+        <rect x="-70" y="150" width="140" height="1" fill="#334155"/>
+        <text x="0" y="176" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="10">MS CS · Syracuse University</text>
+        <text x="0" y="196" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="10">Python · FastAPI · PyTorch</text>
+        <text x="0" y="216" text-anchor="middle" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="10">LLMs · RAG · Kubernetes</text>
+        <rect x="-55" y="232" width="110" height="22" rx="11" fill="#4338ca">
+          <animate attributeName="opacity" values="0.85;1;0.85" dur="2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="0" y="247" text-anchor="middle" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">OPEN TO ROLES · 2026</text>
+      </g>
+    </g>
+  </g>
+</svg>
