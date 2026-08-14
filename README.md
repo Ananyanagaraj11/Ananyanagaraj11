@@ -70,6 +70,7 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -77,6 +78,7 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -99,6 +101,8 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -124,9 +128,9 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 
 | Domain | Engineering Focus |
 |:--|:--|
-| **Microservices** | Java Spring Boot, FastAPI, gRPC, REST APIs |
+| **Microservices** | Java Spring Boot, ASP.NET Core / C#, FastAPI, gRPC, REST APIs |
 | **Event-Driven Systems** | Kafka, RabbitMQ, Redis async pipelines |
-| **Data Engineering** | ETL ingestion, PostgreSQL optimization, batch processing |
+| **Data Engineering** | Spark / PySpark ingest, ETL, PostgreSQL, batch processing |
 | **Distributed Systems** | Container orchestration, CI/CD, cloud-native deployment |
 
 ---
@@ -189,6 +193,25 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 - PyTorch + FastAPI SOC dashboard
 
 `PyTorch` `FastAPI` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise Integration Hub
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/enterprise-integration-hub)
+
+- PySpark ingest → JSON contract → ASP.NET Core REST API
+- JavaScript dashboard with KPI cards and feed filters
+- GitHub Actions build for the .NET API
+
+`C#` `.NET` `JavaScript` `PySpark`
+
+</td>
+<td width="50%" valign="top">
+
+Portfolio demo connecting Spark ingest, a C# API, and a JavaScript UI. Not proprietary work code.
 
 </td>
 </tr>
