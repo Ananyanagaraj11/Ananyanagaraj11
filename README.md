@@ -202,16 +202,16 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 ### Enterprise Integration Hub
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/enterprise-integration-hub)
 
-- PySpark ingest → JSON contract → ASP.NET Core REST API
-- JavaScript dashboard with KPI cards and feed filters
-- GitHub Actions build for the .NET API
+- API-led System / Process / Experience APIs, JWT gateway, sagas, DLQ
+- 800-feed Spark canonicalizer + quality gates + JS ops console
+- Docker, Kubernetes, Terraform notes, pytest, GitHub Actions CI
 
-`C#` `.NET` `JavaScript` `PySpark`
+`C#` `.NET` `Python` `FastAPI` `JavaScript` `PySpark` `Kafka-patterns`
 
 </td>
 <td width="50%" valign="top">
 
-Portfolio demo connecting Spark ingest, a C# API, and a JavaScript UI. Not proprietary work code.
+Interview-scale integration platform: API gateway, events, Spark, .NET, and a JavaScript console. Not proprietary work code.
 
 </td>
 </tr>
