@@ -24,7 +24,20 @@ MS Computer Science @ Syracuse University · May 2026
 
 **Software Engineer · AI Engineer · Backend Engineer · ML Engineer · LLM Engineer**
 
-MS **Computer Science** @ **Syracuse University** (May 2026). I build **production backend systems**, **LLM/RAG platforms**, **computer vision pipelines**, and **cloud-native services** — from Java/Kafka microservices to FastAPI inference APIs and PyTorch ML dashboards.
+MS **Computer Science** @ **Syracuse University** (May 2026). I build **production backend systems**, **LLM/RAG platforms**, **AI evaluation tooling**, and **cloud-native services** — from Java/Kafka microservices to LangGraph coding agents and model benchmark labs.
+
+### Live demos (click to try)
+
+| Project | Demo |
+|:--|:--|
+| **Autonomous Coding Agent** | [API](https://ananya-autonomous-coding-agent.onrender.com/docs) · [Dashboard](https://ananya-coding-agent-dashboard.onrender.com) |
+| **LLM Evaluation Lab** | [API](https://ananya-llm-model-evaluation-lab.onrender.com/docs) · [Dashboard](https://ananya-llm-eval-lab-dashboard.onrender.com) |
+| **LLM Red-Team Framework** | [API](https://ananya-llm-safety-redteam-framework.onrender.com/docs) · [Dashboard](https://ananya-llm-redteam-dashboard.onrender.com) |
+| **Enterprise Decision Intelligence** | [App](https://enterprise-decision-intelligence.onrender.com/) |
+| **SOC Lite AI IDS** | [Dashboard](https://ai-cyber-threat-dashboard-1.onrender.com/) |
+| **Multimodal Video Intelligence** | [API](https://ananya-multimodal-video-intelligence.onrender.com/docs) |
+
+> Render free tier may sleep — first load can take ~60s.
 
 ---
 
@@ -136,6 +149,65 @@ open_to: Software Engineer & AI Engineer roles · May 2026
 ---
 
 ## Featured Projects
+
+### Flagship open source (2025–2026)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Autonomous Coding Agent
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/ananya-autonomous-coding-agent)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://ananya-autonomous-coding-agent.onrender.com/docs)
+
+- LangGraph workflow: plan → inspect → code → test → debug → HITL patch
+- Sandboxed pytest · trajectory logging · mock LLM for CI
+
+`Python` `FastAPI` `LangGraph` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### LLM Model Evaluation Lab
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/ananya-llm-model-evaluation-lab)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://ananya-llm-model-evaluation-lab.onrender.com/docs)
+
+- Golden datasets · model comparison · regression detection
+- CI quality gate when eval scores drop
+
+`Python` `FastAPI` `Pydantic` `pytest`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### LLM Safety Red-Team Framework
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/ananya-llm-safety-redteam-framework)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://ananya-llm-safety-redteam-framework.onrender.com/docs)
+
+- Prompt injection · jailbreaks · data leakage · tool misuse
+- Severity scoring · risk reports · mock target app
+
+`Python` `FastAPI` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### Multimodal Video Intelligence
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Ananyanagaraj11/ananya-multimodal-video-intelligence)
+[![Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square)](https://ananya-multimodal-video-intelligence.onrender.com/docs)
+
+- Video → frames · Whisper · OCR · VLM · semantic search · Q&A
+- Full pipeline with FastAPI + Streamlit dashboard
+
+`Python` `FastAPI` `OpenCV` `PyTorch`
+
+</td>
+</tr>
+</table>
+
+### Professional experience & enterprise projects
 
 <table>
 <tr>
@@ -303,7 +375,7 @@ Interview-scale integration platform: API gateway, events, Spark, .NET, and a Ja
 |:--|:--|
 | **18 REST API routes** on research digitization platform | GitHub / notebooks |
 | **80+ data feeds/day** enterprise backend throughput | MetaSystems experience |
-| **7+ live demos** (EDI, SOC Lite, SafeVoice, Medical NER, BizPulse, Agentic Research, IoT) | Render · Vercel · Netlify · Streamlit · GitHub Pages |
+| **7+ live demos** (Coding Agent, Eval Lab, Red-Team, EDI, SOC Lite, SafeVoice, Medical NER) | Render · Vercel · Netlify · Streamlit |
 | **5-agent decision pipeline** with evaluation harness | EDI repository |
 
 ---
