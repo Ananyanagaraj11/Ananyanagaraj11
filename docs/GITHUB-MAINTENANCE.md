@@ -1,30 +1,39 @@
 # GitHub profile maintenance
 
-Last updated: 2026-08-24
+Last updated: 2026-10-26
 
-## Pinned repositories (set manually — no public API)
+The profile README is a recruiter scan: role, experience, six projects, skills, education, contact. It does not use a contribution snake, trophy wall, visitor counter, or a badge grid.
 
-GitHub → **Your profile** → **Customize your pins** → select these six:
+## Sidebar (set on GitHub, not in this repo)
 
-1. [ananya-autonomous-coding-agent](https://github.com/Ananyanagaraj11/ananya-autonomous-coding-agent)
-2. [ananya-llm-model-evaluation-lab](https://github.com/Ananyanagaraj11/ananya-llm-model-evaluation-lab)
-3. [ananya-llm-safety-redteam-framework](https://github.com/Ananyanagaraj11/ananya-llm-safety-redteam-framework)
-4. [soc-lite-ai-ids](https://github.com/Ananyanagaraj11/soc-lite-ai-ids)
-5. [enterprise-decision-intelligence.](https://github.com/Ananyanagaraj11/enterprise-decision-intelligence.)
-6. [ananya-multimodal-video-intelligence](https://github.com/Ananyanagaraj11/ananya-multimodal-video-intelligence)
+GitHub → **Settings → Public profile**
 
-## Archived duplicate EDI repos
+- **Name:** Ananya Naga Raj
+- **Bio:** AI Software Engineer at Honeywell. MS CS, Syracuse (May 2026). Python, FastAPI, RAG, LangGraph, AWS. Open to SWE and AI roles.
+- **Company:** Honeywell
+- **Location:** Texas, USA
+- **Website:** https://ananyanagaraj.lovable.app/
+- **Available for hire:** on
 
-These are **read-only** on GitHub — cannot edit without unarchiving first:
+## Pinned repositories
+
+GitHub → profile → **Customize your pins**, in this order:
+
+1. [soc-lite-ai-ids](https://github.com/Ananyanagaraj11/soc-lite-ai-ids)
+2. [enterprise-decision-intelligence.](https://github.com/Ananyanagaraj11/enterprise-decision-intelligence.)
+3. [helixgate](https://github.com/Ananyanagaraj11/helixgate)
+4. [enterprise-integration-hub](https://github.com/Ananyanagaraj11/enterprise-integration-hub)
+5. [aetherforge](https://github.com/Ananyanagaraj11/aetherforge)
+6. [ananya-autonomous-coding-agent](https://github.com/Ananyanagaraj11/ananya-autonomous-coding-agent)
+
+Leave forks and the Summer 2026 internship list unpinned. `Summer2026-Internships`, empty `AWS`, and `CERVICAL-CANCER-DETECTION-` read as unfinished if they sit on the first screen.
+
+## Canonical EDI repo
+
+[enterprise-decision-intelligence.](https://github.com/Ananyanagaraj11/enterprise-decision-intelligence.)
+
+Archived duplicates (read-only until unarchived):
 
 - `Enterprise-Decision-Intelligence`
 - `autonomous-enterprise-decision-intelligence`
-- `Enterprise-Decision-Intelligence-System` (fork)
-
-**Canonical repo:** [enterprise-decision-intelligence.](https://github.com/Ananyanagaraj11/enterprise-decision-intelligence.)
-
-## Render deploy (one-time, if demos 404)
-
-- [Eval Lab](https://render.com/deploy?repo=https://github.com/Ananyanagaraj11/ananya-llm-model-evaluation-lab)
-- [Red-Team](https://render.com/deploy?repo=https://github.com/Ananyanagaraj11/ananya-llm-safety-redteam-framework)
-- [Multimodal Video](https://render.com/deploy?repo=https://github.com/Ananyanagaraj11/ananya-multimodal-video-intelligence)
+- `Enterprise-Decision-Intelligence-System`
